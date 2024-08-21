@@ -40,33 +40,54 @@ Let's add more Web3 SOCIAL FEATURES: **add NFT token gating to the Anytype.**
 1. Create an Account1
 2. Create Space1
 3. Click on "Share space with NFT token gating"
+
+<kbd>
 <img width="498" alt="share_space" style="border: 2px solid grey;" src="https://github.com/user-attachments/assets/c77fa273-6281-4896-a6ea-a947358ee9b5">
+</kbd>
 
-4. Enter your NFT address. E.g.: 0x709981f628593c60182f77f15abc59bc47609d13
+5. Enter your NFT address. E.g.: 0x709981f628593c60182f77f15abc59bc47609d13
+<kbd>
 <img width="1661" alt="open_sea" style="border: 2px solid grey;" src="https://github.com/user-attachments/assets/a0f94e4b-57b3-4f8a-9cc6-4d5f7dfbdf43">
-5. Generate a link. E.g.: `https://invite.any.coop/bafybeid6opln5wbtq6uhd6cc56r5zjcnxkydf5tcvltgcynuiwdvdejkwm#Dfdwp1qJqsepB4QD9Eut4fpbNKo7SAtotgnAQdtY1V12&nftTokenAddr=0x709981f628593c60182f77f15abc59bc47609d13`
+</kbd>
 
-6. Create an Account2
-7. Paste the link into your browser
-8. Click on "Join"
+6. Generate a link. E.g.: `https://invite.any.coop/bafybeid6opln5wbtq6uhd6cc56r5zjcnxkydf5tcvltgcynuiwdvdejkwm#Dfdwp1qJqsepB4QD9Eut4fpbNKo7SAtotgnAQdtY1V12&nftTokenAddr=0x709981f628593c60182f77f15abc59bc47609d13`
+
+7. Create an Account2
+8. Paste the link into your browser
+9. Click on "Join"
+<kbd>
 <img width="412" alt="join" style="border: 2px solid grey;" src="https://github.com/user-attachments/assets/fc34522a-8dc9-4275-b6c6-512cdece50ac">
+</kbd>
 
-9. It should fail, because you don't have a required NFT token:
+10. It should fail, because you don't have a required NFT token:
+
+<kbd>
 <img width="406" alt="join_fail" style="border: 2px solid grey;" src="https://github.com/user-attachments/assets/c7fc29f0-3c85-4b83-bb34-c11bb084a2a0">
+</kbd>
 
-10. Now what is cool about Anytype is that we have an Ethereum address that is DERIVED from your Anytype seed phrase! This means that you can use the **SAME SEED PHRASE in your MetaMask** to control your tokens.
+11. Now what is cool about Anytype is that we have an Ethereum address that is DERIVED from your Anytype seed phrase! This means that you can use the **SAME SEED PHRASE in your MetaMask** to control your tokens.
+
+<kbd>
 <img width="843" alt="settings" style="border: 2px solid grey;" src="https://github.com/user-attachments/assets/428707a6-96e9-4265-9b61-bfe9e17235d1">
-
-11. Let's send a required NFT from your MetaMask to Account2! E.g.: 0x0840dC22150646bAd4e0d3cBeBeCCdbAB8e032a2
+</kbd>
+ 
+12. Let's send a required NFT from your MetaMask to Account2! E.g.: 0x0840dC22150646bAd4e0d3cBeBeCCdbAB8e032a2
+<kbd>
 <img width="352" alt="metamask" style="border: 2px solid grey;" src="https://github.com/user-attachments/assets/198eddc3-f37b-41b0-9c3e-8f4d03d2fa1e">
+</kbd>
 
-12. Now try to join the space again (steps 5-8):
+13. Now try to join the space again (steps 5-8):
+
+<kbd>
 <img width="412" alt="join" style="border: 2px solid grey;" src="https://github.com/user-attachments/assets/fc34522a-8dc9-4275-b6c6-512cdece50ac">
+</kbd>
 
-13. SUCCESS!!! NFT check succeeded.
+14. SUCCESS!!! NFT check succeeded.
 Now the final step is for Account1 to accept Account2!!!
-<img width="1671" alt="success" style="border: 2px solid grey;" src="https://github.com/user-attachments/assets/e6b95b97-0103-4dec-bb23-16f7675429d5">
 
+<kbd>
+  <img width="1671" alt="success" style="border: 2px solid grey;" src="https://github.com/user-attachments/assets/e6b95b97-0103-4dec-bb23-16f7675429d5">
+</kbd>
 
 
 
